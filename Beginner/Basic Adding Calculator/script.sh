@@ -1,3 +1,4 @@
+#!/bin/bash
 # Author     : Joseph Adogeri
 # Date       : 11/28/2023
 # Title      : Basic Adding Calculator
