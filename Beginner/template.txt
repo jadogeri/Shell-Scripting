@@ -1,0 +1,16 @@
+#!/bin/bash
+
+n=7
+for (( i=1 ; i<=$n ; i++ )); 
+do
+    echo $i
+done
+
+
+
+i=0
+while((i < 12))
+do
+   echo $i
+   ((i+=2))
+done
