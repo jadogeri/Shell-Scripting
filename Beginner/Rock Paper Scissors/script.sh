@@ -18,7 +18,13 @@ echo "TYPE r for ROCK\n  TYPE p for PAPER \nTYPE s for SCISSORS "
 echo "How many games do you want to play !!"
 read round
 
-
+player_name 
+cpu_name = "CPU"
+while((round > 0))
+do
+   echo $i
+   ((i+=2))
+done
 
 echo "ENTER FIRST NUMBER"
 
