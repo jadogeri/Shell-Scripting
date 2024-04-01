@@ -32,7 +32,7 @@ Shell script to add two numbers.
 2. Clone the project 
 
 1. Download from Github
-. Navigate to project using link [Basic Adding Calchlator](https://github.com/jadogeri/Shell-Scripting)
+. Navigate to project using link [Shell Scripting](https://github.com/jadogeri/Shell-Scripting)
 . Click on the code button.
 . Choose the option Download Zip .
 . Navigate to location where the zipped file was saved.
